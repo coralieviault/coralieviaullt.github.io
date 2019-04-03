@@ -1,0 +1,37 @@
+h1{
+	color: teal;
+	text-align: center;
+}
+.tl-text h2.tl-headline-title, .tl-text h2.tl-headline {
+	color: grey;
+}
+.tl-timemarker .tl-timemarker-content-container {
+	background-color: #b8b8b8;  
+}
+
+.tl-timemarker .tl-timemarker-content-container .tl-timemarker-content.tl-timemarker-content-small .tl-timemarker-text h2.tl-headline{
+	color: teal;
+}
+
+
+.tl-icon-image:after {
+	color: teal;
+}
+
+.tl-full-image-background .tl-text, .tl-full-color-background .tl-text, .tl-full-image-background .tl-text p, .tl-full-color-background .tl-text p {
+	font-family: helvetica;
+	text-align: justify;
+}
+
+
+.tl-slidenav-previous .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-icon, .tl-slidenav-next .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-icon, .tl-slidenav-previous .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-title, .tl-slidenav-next .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-title, .tl-slidenav-previous .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-description, .tl-slidenav-next .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-description {
+	color: #e18f2f;
+}
+
+.tl-skinny .tl-text h2.tl-headline-title, .tl-skinny .tl-text h2.tl-headline {
+	color: grey!important;
+}
+
+.tl-slide.tl-full-image-background h2{
+	color: #e18f2f!important;
+}
